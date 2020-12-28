@@ -8,7 +8,7 @@
 
 A PCB for Ben Eater's [6502 PC](https://eater.net/6502)  
   
-Ben Eater on:  
+Ben Eater:  
  - [Video tutorials](https://eater.net)
  - [GitHub](https://github.com/beneater)  
  - [YouTube](https://www.youtube.com/c/BenEater/featured)  
